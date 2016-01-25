@@ -1,0 +1,7 @@
+{
+  "name": "roman01la-devtools",
+  "version": "1.0.0",
+  "description": "Custom DevTools theme",
+  "devtools_page": "devtools.html",
+  "manifest_version": 2
+}
